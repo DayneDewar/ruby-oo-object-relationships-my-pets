@@ -1,6 +1,4 @@
 require 'pry'
-require_relative 'cat.rb'
-require_relative 'dog.rb'
 
 class Owner
 @@all = []
